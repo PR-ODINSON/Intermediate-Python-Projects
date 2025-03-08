@@ -1,1 +1,1 @@
-# Intermediate-Python Projects.
+# Intermediate-Python Projects
