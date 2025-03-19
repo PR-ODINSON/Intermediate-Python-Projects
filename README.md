@@ -7,7 +7,6 @@ Welcome to the **Intermediate Python Projects** repository! 🚀 This collection
 This repository focuses on:
 
 - **Object-Oriented Programming (OOP)**
-- **Data Structures & Algorithms (DSA)**
 - **File Handling**
 - **APIs & Web Scraping**
 - **GUI Development**
